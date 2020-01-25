@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import quotes from './quotes/quotes'
+import css from './css/Quotebox.css'
 
 class Quotebox extends Component {
   constructor(props) {
